@@ -14,8 +14,8 @@
 - 🌩️ Cookies Stealer
 - 🌩️ Cards Stealer
 - 🌩️ Browser History Stealer
-- 🛑 Machine Info Stealer
-- 🛑 Steam Stealer
+- ⛈️ Machine Info Stealer
+- ⛈️ Steam Stealer
 - 🛑 Reverse Shell
 - 🌟 ¿More? **Leave a Star**
 

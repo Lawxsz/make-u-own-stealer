@@ -9,7 +9,7 @@
 - 🚀 Discord Tokens
 - 🚀 MetaMask Stealer
 - 🚀 Exodus Stealer
-- ⭐️ Roblox Steal
+- 🚀 Roblox Steal
 - ⭐️ Passwords Stealer
 - ⭐️ Cookies Stealer
 - ⭐️ Machine Stealer

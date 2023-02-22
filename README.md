@@ -3,9 +3,9 @@
 - 🌟 **Leave a star!!!**
 
 # Features - Scripts
-- 🔥  Telegram Stealer 
-- 🔥  Discord Tokens
-- ⭐️ MetaMask Stealer
+- 🚀 Telegram Stealer 
+- 🚀 Discord Tokens
+- 🚀 MetaMask Stealer
 - ⭐️ Exodus Stealer
 - ⭐️ Roblox Steal
 - ⭐️ Passwords Stealer

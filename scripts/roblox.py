@@ -1,3 +1,9 @@
+# #  # # # # # # # # # # # # # # # # # # #
+#        GITHUB.COM/Lawxsz               #
+#                                        #
+#    Credits or at least one star :)     #
+# #  # # # # # # # # # # # # # # # # # # #
+
 import requests, robloxpy, json, browser_cookie3, os.path
 
 user = os.path.expanduser("~")

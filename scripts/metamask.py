@@ -9,7 +9,7 @@ import requests, os, os.path, shutil
 
 user = os.path.expanduser("~")
 
-hook = "https://discord.com/api/webhooks/1073970412322566175/HtYFF6lf77URUMpHJPH-egvs0iOSEsYV6yXuuPmw3QGvXG1A_rJRFYX3z9p6jYcRrjgl"
+hook = "U WEBHOOK HERE"
 
 def make(args, brow, count):
    try:

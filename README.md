@@ -19,6 +19,12 @@
 - ⛈️ Machine Info Stealer
 - ⛈️ Steam Stealer
 - 🛑 Reverse Shell
+- 🛑 WebCam ScreenShot
+- 🛑 PC Screenshot (i forgot lol)
+- 🛑 File Stealer (Find important files)
+- 🛑 MobaXterm/PuTTY Sessions
+- 🛑 Disable Task Manager
+- 🛑 CNC to Victim (maybe)
 - 🌟 ¿More? **Leave a Star**
 
 # DISCLAIMER 📛 

@@ -1,3 +1,10 @@
+# #  # # # # # # # # # # # # # # # # # # #
+#  GITHUB.COM/Lawxsz                     #
+#                                        #
+#  Credits or at least one star :)       #
+#                                        #
+# #  # # # # # # # # # # # # # # # # # # #
+
 import re, os, requests
 import json
 

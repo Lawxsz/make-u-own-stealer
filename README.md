@@ -1,6 +1,8 @@
 # Make u Own Stealer!! 🚀
 - 🎄 I will soon release my own stealer ready to compile!
 - 🌟 **Leave a star!!!**
+- Discord: https://discord.gg/F3zsrZqNBY
+- Telegram: https://t.me/lawoficial
 
 # Features - Scripts
 - 🚀 Telegram Stealer 

@@ -10,9 +10,11 @@
 - 🚀 MetaMask Stealer
 - 🚀 Exodus Stealer
 - 🚀 Roblox Steal
-- ⭐️ Passwords Stealer
-- ⭐️ Cookies Stealer
-- ⭐️ Machine Stealer
+- 🌩️ Passwords Stealer
+- 🌩️ Cookies Stealer
+- 🌩️ Cards Stealer
+- 🌩️ Browser History Stealer
+- 🔮 Machine Info Stealer
 - 🌟 ¿More? **Leave a Star**
 
 # DISCLAIMER 📛 

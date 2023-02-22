@@ -8,7 +8,7 @@
 - 🚀 Telegram Stealer 
 - 🚀 Discord Tokens
 - 🚀 MetaMask Stealer
-- ⭐️ Exodus Stealer
+- 🚀 Exodus Stealer
 - ⭐️ Roblox Steal
 - ⭐️ Passwords Stealer
 - ⭐️ Cookies Stealer

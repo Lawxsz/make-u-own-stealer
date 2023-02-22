@@ -4,6 +4,8 @@
 - Discord: https://discord.gg/F3zsrZqNBY
 - Telegram: https://t.me/lawoficial
 
+![machine-info](machine-info.png)
+
 # Features - Scripts
 - 🚀 Telegram Stealer 
 - 🚀 Discord Tokens

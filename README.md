@@ -32,9 +32,6 @@
 - This repository is for ethical purposes and to use the scripts to learn and improve in python :)
 - I am not responsible for any damage that may be done with this.
 
-# ♻️ Issues
-- Suggest or bugs? make a issue :)) 
-
 # 🔰 Coding Services - Contact 🔰 
 - **Telegram:** https://t.me/Lawxsz
 - **Discord:** Lawxsz#5963

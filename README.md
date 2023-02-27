@@ -28,6 +28,10 @@
 - 🛑 CNC to Victim (maybe)
 - 🌟 ¿More? **Leave a Star**
 
+# BYPASS AVS - VM - RDP ♟️ 
+- 🎓 I made a repository about it, go check it out! 🎓 
+
+
 # DISCLAIMER 📛 
 - This repository is for ethical purposes and to use the scripts to learn and improve in python :)
 - I am not responsible for any damage that may be done with this.

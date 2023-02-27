@@ -30,7 +30,7 @@
 
 # BYPASS AVS - VM - RDP ♟️ 
 - 🎓 I made a repository about it, go check it out! 🎓 
-
+- https://github.com/Lawxsz/bypass-virus-total
 
 # DISCLAIMER 📛 
 - This repository is for ethical purposes and to use the scripts to learn and improve in python :)

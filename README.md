@@ -19,14 +19,16 @@
 - 🌩️ Browser History Stealer
 - ⛈️ Machine Info Stealer
 - ⛈️ Steam Stealer
+- 📸 PC Screenshot
+- 📸 Webcam Screenshot
 - 🛑 Reverse Shell
-- 🛑 WebCam ScreenShot
-- 🛑 PC Screenshot (i forgot lol)
 - 🛑 File Stealer (Find important files)
 - 🛑 MobaXterm/PuTTY Sessions
 - 🛑 Disable Task Manager
 - 🛑 CNC to Victim (maybe)
-- 🌟 ¿More? **Leave a Star**
+- 🛑 Rec Audio/Rec Video
+- 🛑 WhatsApp Stealer
+- 🌟 ¿More? **Leave a Star** and suggest!
 
 # BYPASS AVS - VM - RDP ♟️ 
 - 🎓 I made a repository about it, go check it out! 🎓 

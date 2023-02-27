@@ -34,6 +34,30 @@
 - 🎓 I made a repository about it, go check it out! 🎓 
 - https://github.com/Lawxsz/bypass-virus-total
 
+# PREMIUM 💽 
+- 🚀 Telegram Stealer 
+- 🚀 Discord Tokens
+- 🚀 MetaMask Stealer
+- 🚀 Exodus Stealer
+- 🚀 Roblox Steal
+- 🌩️ Passwords Stealer
+- 🌩️ Cookies Stealer
+- 🌩️ Cards Stealer
+- 🌩️ Browser History Stealer
+- ⛈️ Machine Info Stealer
+- ⛈️ Steam Stealer
+- 📸 PC Screenshot
+- 📸 Webcam Screenshot
+- 📸 Video Rec
+- 📸 Audio Rec
+- 📦 Specific File Stealer
+- 🧮 Change wallpaper Windows
+- 🔕 Disable Task Manager
+- 🔕 Block Keyboard/Mouse
+- 📟 Reverse Shell
+- 🧪 Delete specific files when injecting
+- ⛑️ Disable Antivirus/Firewall
+- 💸 Soon more, DM ON TELEGRAM OR DISCORD FOR BUSINESS $$
 # DISCLAIMER 📛 
 - This repository is for ethical purposes and to use the scripts to learn and improve in python :)
 - I am not responsible for any damage that may be done with this.

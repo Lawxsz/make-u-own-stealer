@@ -1,4 +1,4 @@
-import os.path, requests
+import os.path, requests, os
 from PIL import ImageGrab
 
 user = os.path.expanduser("~")

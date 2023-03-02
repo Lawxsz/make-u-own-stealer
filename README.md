@@ -34,7 +34,7 @@
 - 🎓 I made a repository about it, go check it out! 🎓 
 - https://github.com/Lawxsz/bypass-virus-total
 
-# PREMIUM 💽 
+# Prysmax PREMIUM 💽 
 - 🚀 Telegram Stealer 
 - 🚀 Discord Tokens
 - 🚀 MetaMask Stealer
@@ -50,11 +50,12 @@
 - 📸 Webcam Screenshot
 - 📸 Video Rec
 - 📸 Audio Rec
+- 🔔 Surfshark/Proton/NordVPN Stealer
 - 📦 Specific File Stealer
 - 🧮 Change wallpaper Windows
 - 🔕 Disable Task Manager
 - 🔕 Block Keyboard/Mouse
-- 📟 Reverse Shell
+- 📟 Reverse Shell beta
 - 🧪 Delete specific files when injecting
 - ⛑️ Disable Antivirus/Firewall
 - 💸 Soon more, DM ON TELEGRAM OR DISCORD FOR BUSINESS $$

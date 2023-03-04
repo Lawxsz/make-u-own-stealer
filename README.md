@@ -5,7 +5,7 @@
 - Discord: https://discord.gg/F3zsrZqNBY
 - Telegram: https://t.me/lawoficial
 
-![prysmax_banner](prysmax_banner.gif)
+![machine-info](machine-info.png)
 
 # Features - Scripts
 - 🚀 Telegram Stealer 
@@ -33,8 +33,9 @@
 # BYPASS AVS - VM - RDP ♟️ 
 - 🎓 I made a repository about it, go check it out! 🎓 
 - https://github.com/Lawxsz/bypass-virus-total
-
 # Prysmax PREMIUM 💽 
+![prysmax_banner.gif](prysmax_banner.gif)
+
 - 🚀 Telegram Stealer 
 - 🚀 Discord Tokens
 - 🚀 MetaMask Stealer

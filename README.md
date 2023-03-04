@@ -51,12 +51,12 @@
 - 📸 Webcam Screenshot
 - 📸 Video Rec
 - 📸 Audio Rec
-- 🔔 Surfshark/Proton/NordVPN Stealer
+- ❤️ Surfshark/ProtonVPN/NordVPN/CyberGhost/ExpressVPN/TunnelBear/VyprVPN/Windscribe/IPVanish/Hotspot Shield | 10 VPNs Stealer
 - 📦 Specific File Stealer
 - 🧮 Change wallpaper Windows
 - 🔕 Disable Task Manager
 - 🔕 Block Keyboard/Mouse
-- 📟 Reverse Shell beta
+- 📟 Reverse Shell (Beta ❤️)
 - 🧪 Delete specific files when injecting
 - ⛑️ Disable Antivirus/Firewall
 - 💸 Soon more, DM ON TELEGRAM OR DISCORD FOR BUSINESS $$

@@ -5,7 +5,7 @@
 - Discord: https://discord.gg/F3zsrZqNBY
 - Telegram: https://t.me/lawoficial
 
-![machine-info](machine-info.png)
+![prysmax_banner](prysmax_banner.gif)
 
 # Features - Scripts
 - 🚀 Telegram Stealer 

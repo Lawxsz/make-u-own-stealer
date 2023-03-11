@@ -35,7 +35,7 @@
 - https://github.com/Lawxsz/bypass-virus-total
 # Prysmax PREMIUM 💽 
 ![prysmax_banner.gif](prysmax_banner.gif)
-
+- ⬛ FUD (FULLY UNDETECTABLE)
 - 🚀 Telegram Stealer 
 - 🚀 Discord Tokens
 - 🚀 MetaMask Stealer

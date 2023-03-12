@@ -38,8 +38,7 @@
 - ⬛ FUD (FULLY UNDETECTABLE)
 - 🚀 Telegram Stealer 
 - 🚀 Discord Tokens
-- 🚀 MetaMask Stealer
-- 🚀 Exodus Stealer
+- 🦊 MetaMask/Exodus/Binance/Phantom/Coin98/Jaxx/Xinpay/StarMask/Mobox/More!!
 - 🚀 Roblox Steal
 - 🌩️ Passwords Stealer
 - 🌩️ Cookies Stealer
@@ -48,17 +47,11 @@
 - ⛈️ Machine Info Stealer
 - ⛈️ Steam Stealer
 - 📸 PC Screenshot
-- 📸 Webcam Screenshot
-- 📸 Video Rec
-- 📸 Audio Rec
 - ❤️ Surfshark/ProtonVPN/NordVPN/CyberGhost/ExpressVPN/TunnelBear/VyprVPN/Windscribe/IPVanish/Hotspot Shield | 10 VPNs Stealer
 - 📦 Specific File Stealer
 - 🧮 Change wallpaper Windows
-- 🔕 Disable Task Manager
-- 🔕 Block Keyboard/Mouse
-- 📟 Reverse Shell (Beta ❤️)
 - 🧪 Delete specific files when injecting
-- ⛑️ Disable Antivirus/Firewall
+- ⛑️ Disable Antivirus/Firewall (Beta)
 - 💸 Soon more, DM ON TELEGRAM OR DISCORD FOR BUSINESS $$
 # DISCLAIMER 📛 
 - This repository is for ethical purposes and to use the scripts to learn and improve in python :)

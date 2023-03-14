@@ -52,7 +52,7 @@
 - 🧮 Change wallpaper Windows
 - 🧪 Delete specific files when injecting
 - ⛑️ Disable Antivirus/Firewall (Beta)
-- 💸 Soon more, DM ON TELEGRAM OR DISCORD FOR BUSINESS $$
+- 💸 20$ DM telegram/discord
 # DISCLAIMER 📛 
 - This repository is for ethical purposes and to use the scripts to learn and improve in python :)
 - I am not responsible for any damage that may be done with this.

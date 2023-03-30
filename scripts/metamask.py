@@ -41,5 +41,3 @@ def yea():
    count+=1
  except IndexError:
      pass
-     
-yea()

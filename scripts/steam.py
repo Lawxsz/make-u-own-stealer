@@ -6,8 +6,8 @@
 # #  # # # # # # # # # # # # # # # # # # #
 
 import os, os.path, zipfile, requests
+from config import hook
 
-hook = ""
 def steam_st():
  steam_path = ""
  if os.path.exists(os.environ["PROGRAMFILES(X86)"]+"\\steam"):

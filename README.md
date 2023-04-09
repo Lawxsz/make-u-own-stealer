@@ -1,6 +1,6 @@
 # MAKE U OWN STEALER - SOURCE !! 🚀
 ## STARR FOR MORE UPDATES ❤️ 
-- 🎄 I will soon release my own stealer ready to compile!
+- 🎄 Auto setup done!
 - 🌟 **Leave a star!!!**
 - Discord: https://discord.gg/F3zsrZqNBY
 - Telegram: https://t.me/lawoficial
@@ -30,7 +30,8 @@
 - 🛑 WhatsApp Stealer
 - 🌟 ¿More? **Leave a Star** and suggest!
 
-# BYPASS AVS - VM - RDP ♟️ 
+# SETUP & BYPASS AVS - VM - RDP ♟️ 
+- First, download the files and execute the builder.py, before put u webhook in configs.py and done!, u need python 3.8.9 and all requeriments
 - 🎓 I made a repository about it, go check it out! 🎓 
 - https://github.com/Lawxsz/bypass-virus-total
 # Prysmax Stealer 💽 

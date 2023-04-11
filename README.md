@@ -20,7 +20,7 @@
 - ⛈️ Machine Info Stealer
 - ⛈️ Steam Stealer
 - 📸 PC Screenshot
-- 📸 Webcam Screenshot
+- MAYBE IN THE FUTURE!!
 - 🛑 Reverse Shell
 - 🛑 File Stealer (Find important files)
 - 🛑 MobaXterm/PuTTY Sessions
@@ -54,7 +54,7 @@
 - 🧮 Change wallpaper Windows
 - 🧪 Delete specific files when injecting
 - ⛑️ Disable Antivirus/Firewall (Beta)
-- 💸 20$ DM telegram/discord/email
+- 💸 45$ LIFETIME/SUPPORT/GUIDE | DM on Telegram or Discord
 # DISCLAIMER 📛 
 - This repository is for ethical purposes and to use the scripts to learn and improve in python :)
 - I am not responsible for any damage that may be done with this.

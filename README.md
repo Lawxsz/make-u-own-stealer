@@ -1,7 +1,7 @@
 # MAKE U OWN STEALER - SOURCE !! 🚀
 ## STARR FOR MORE UPDATES ❤️ 
 - 🎄 Auto setup done!
-- 🌟 **Leave a star!!!**
+- 🌟 **Leave a star!!**
 - Discord: https://discord.gg/F3zsrZqNBY
 - Telegram: https://t.me/lawoficial
 

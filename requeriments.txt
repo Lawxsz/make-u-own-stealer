@@ -1,0 +1,10 @@
+requests
+Crypto.Cipher
+pycryptodome
+shutil
+zipfile
+re
+json
+pywin32
+datetime
+sqlite3

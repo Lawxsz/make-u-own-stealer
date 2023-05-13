@@ -54,7 +54,7 @@
 - 🧮 Change wallpaper Windows
 - 🧪 Delete specific files when injecting
 - ⛑️ Disable Antivirus/Firewall (Beta)
-- 💸 45$ LIFETIME/SUPPORT/GUIDE | DM on Telegram or Discord
+- 💸 45$ LIFETIME/SUPPORT/GUIDE | DM on Telegram or Discord !!
 # DISCLAIMER 📛 
 - This repository is for ethical purposes and to use the scripts to learn and improve in python :)
 - I am not responsible for any damage that may be done with this.

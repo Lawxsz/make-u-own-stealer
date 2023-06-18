@@ -50,7 +50,7 @@
 - 📸 PC Screenshot
 - ❤️ Surfshark/ProtonVPN/NordVPN/CyberGhost/ExpressVPN/TunnelBear/VyprVPN/Windscribe/IPVanish/Hotspot Shield | 10 VPNs Stealer
 - 📦 Specific File Stealer
-- 📦 FTP/SSH IP-Port-Login
+- 💉 Injection!!!
 - 🧮 Change wallpaper Windows
 - 🧪 Delete specific files when injecting
 - ⛑️ Disable Antivirus/Firewall (Beta)

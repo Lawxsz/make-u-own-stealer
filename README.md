@@ -33,6 +33,8 @@
 - 🎓 I made a repository about it, go check it out! 🎓 
 - https://github.com/Lawxsz/bypass-virus-total
 # Prysmax Stealer 💽 
+![image](https://github.com/Lawxsz/make-u-own-stealer/assets/116668706/096c5af4-608a-49a6-aee8-4c4b8e09e1a6)
+
 ![image](https://github.com/Lawxsz/make-u-own-stealer/assets/116668706/fb7a6b6c-cf34-4acc-8669-9ee208abcd53)
 - ⬛ FUD (FULLY UNDETECTABLE to Firewall)
 - 🚀 Telegram Stealer 
@@ -48,7 +50,7 @@
 - 📸 PC Screenshot
 - ❤️ Surfshark/ProtonVPN/NordVPN/CyberGhost/ExpressVPN/TunnelBear/VyprVPN/Windscribe/IPVanish/Hotspot Shield | 10 VPNs Stealer
 - 📦 Specific File Stealer
-- 💉 Injection!!!
+- 💉 Exodus Injection (password), Discord Injection
 - 🧮 Change wallpaper Windows
 - 🧪 Delete specific files when injecting
 - ⛑️ Disable Antivirus/Firewall (Beta)

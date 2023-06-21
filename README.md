@@ -5,7 +5,7 @@
 - Discord: https://discord.gg/F3zsrZqNBY
 - Telegram: https://t.me/lawoficial
 
-![virustotal](vt.png)
+![image](https://github.com/Lawxsz/make-u-own-stealer/assets/116668706/fb7a6b6c-cf34-4acc-8669-9ee208abcd53)
 
 # Features - Scripts
 - 🚀 Telegram Stealer 

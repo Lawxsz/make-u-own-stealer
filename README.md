@@ -5,8 +5,6 @@
 - Discord: https://discord.gg/F3zsrZqNBY
 - Telegram: https://t.me/lawoficial
 
-![image](https://github.com/Lawxsz/make-u-own-stealer/assets/116668706/fb7a6b6c-cf34-4acc-8669-9ee208abcd53)
-
 # Features - Scripts
 - 🚀 Telegram Stealer 
 - 🚀 Discord Tokens
@@ -35,7 +33,7 @@
 - 🎓 I made a repository about it, go check it out! 🎓 
 - https://github.com/Lawxsz/bypass-virus-total
 # Prysmax Stealer 💽 
-![prysmax_banner.gif](prysmax_banner.gif)
+![image](https://github.com/Lawxsz/make-u-own-stealer/assets/116668706/fb7a6b6c-cf34-4acc-8669-9ee208abcd53)
 - ⬛ FUD (FULLY UNDETECTABLE to Firewall)
 - 🚀 Telegram Stealer 
 - 🚀 Discord Tokens

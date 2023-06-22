@@ -3,7 +3,7 @@
 - 🎄 Auto setup done!
 - 🌟 **Leave a star!!**
 - Discord: https://discord.gg/F3zsrZqNBY
-- Telegram: https://t.me/lawoficial
+- Telegram: https://t.me/prysmax
 
 # Features - Scripts
 - 🚀 Telegram Stealer 

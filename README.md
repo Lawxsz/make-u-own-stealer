@@ -1,7 +1,7 @@
 # MAKE U OWN STEALER - SOURCE SCRIPTS !! 🚀
 ## STARR FOR MORE UPDATES ❤️ 
 - 🌟 **Leave a star!!**
-- Discord: https://discord.gg/F3zsrZqNBY
+- Discord: https://discord.gg/g69Bv8fB
 - Telegram: https://t.me/prysmax
 - 
 This repository is for educational purposes only, we only provide Python Scripts so that you can use them in the purposes you need.

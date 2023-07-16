@@ -1,10 +1,10 @@
-# MAKE U OWN STEALER - SOURCE !! 🚀
+# MAKE U OWN STEALER - SOURCE SCRIPTS !! 🚀
 ## STARR FOR MORE UPDATES ❤️ 
-- 🎄 Auto setup done!
 - 🌟 **Leave a star!!**
 - Discord: https://discord.gg/F3zsrZqNBY
 - Telegram: https://t.me/prysmax
-
+- 
+This repository is for educational purposes only, we only provide Python Scripts so that you can use them in the purposes you need.
 # Features - Scripts
 - 🚀 Telegram Stealer 
 - 🚀 Discord Tokens
@@ -18,23 +18,9 @@
 - ⛈️ Machine Info Stealer
 - ⛈️ Steam Stealer
 - 📸 PC Screenshot
-- MAYBE IN THE FUTURE!!
-- 🛑 Reverse Shell
-- 🛑 File Stealer (Find important files)
-- 🛑 MobaXterm/PuTTY Sessions
-- 🛑 Disable Task Manager
-- 🛑 CNC to Victim (maybe)
-- 🛑 Rec Audio/Rec Video
-- 🛑 WhatsApp Stealer
 - 🌟 ¿More? **Leave a Star** and suggest!
 
-# SETUP & BYPASS AVS - VM - RDP ♟️ 
-- First, download the files and execute the builder.py, before put u webhook in configs.py and done!, u need python 3.8.9 and all requeriments
-- 🎓 I made a repository about it, go check it out! 🎓 
-- https://github.com/Lawxsz/bypass-virus-total
 # Prysmax Stealer 💽 
-![image](https://github.com/Lawxsz/make-u-own-stealer/assets/116668706/096c5af4-608a-49a6-aee8-4c4b8e09e1a6)
-
 ![image](https://github.com/Lawxsz/make-u-own-stealer/assets/116668706/fb7a6b6c-cf34-4acc-8669-9ee208abcd53)
 - ⬛ FUD (FULLY UNDETECTABLE to Firewall)
 - 🚀 Telegram Stealer 
@@ -49,12 +35,9 @@
 - ⛈️ Steam Stealer
 - 📸 PC Screenshot
 - ❤️ Surfshark/ProtonVPN/NordVPN/CyberGhost/ExpressVPN/TunnelBear/VyprVPN/Windscribe/IPVanish/Hotspot Shield | 10 VPNs Stealer
-- 📦 Specific File Stealer
 - 💉 Exodus Injection (password), Discord Injection
-- 🧮 Change wallpaper Windows
-- 🧪 Delete specific files when injecting
-- ⛑️ Disable Antivirus/Firewall (Beta)
-- 💸 45$ LIFETIME/SUPPORT/GUIDE | DM on Telegram or Discord !!
+- NEW RAT FUD (REVERSE SHELL AND MORE)
+- 💸 Cheap prices dm on telegram @Lawxsz
 
 # DISCLAIMER 📛 
 - This repository is for ethical purposes and to use the scripts to learn and improve in python :)

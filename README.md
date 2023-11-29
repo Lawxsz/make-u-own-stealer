@@ -46,3 +46,4 @@ This repository is for educational purposes only, we only provide Python Scripts
 # 🔰 Coding Services - Contact 🔰 
 - **Telegram:** https://t.me/Lawxsz
 - **Discord:** Lawxsz#5963
+-  https://t.me/lawxszchannel

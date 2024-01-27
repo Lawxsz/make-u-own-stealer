@@ -12,4 +12,4 @@ __________
 print("\n[- Builder version 2.1 -]\n")
 print("BTW. Do you need install ALL requeriments, include pyarmor + pyinstaller. PYTHON 3.8.9 or don't work !!!!")
 sleep(2)
-os.system('pyarmor pack -e"--onefile --noconsole --icon NONE" setup.py')
+os.system('pyarmor-7 pack -e"--onefile --noconsole --icon NONE" setup.py')

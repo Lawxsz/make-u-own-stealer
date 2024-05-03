@@ -3,6 +3,7 @@
 - Scripts improveds
 - More Scripts
 - Now JavaScript & Python !
+- Last Update: Cookie Retriever with Good Cookies Format!
 ####   🌟 STARR FOR MORE UPDATES ❤️ 
    - 🌟 If you want to compile your file go to the Prysmax repository and compile it for free and easy! - [Prysmax Compilator](https://github.com/Lawxsz/prysmax)
 

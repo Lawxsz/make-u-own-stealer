@@ -1,6 +1,6 @@
 # MAKE U OWN STEALER  !! 
 ## 📍 New Update
-telegram: https://t.me/prysmax
+telegram: https://t.me/prysmax # flash Usdt 
 https://t.me/lawxszchannel
 ####   🌟 STARR FOR MORE UPDATES ❤️ 
    - 🌟 If you want to compile your file go to the Prysmax repository and compile it for free and easy! - [Prysmax Compilator](https://github.com/Lawxsz/prysmax)

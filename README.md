@@ -8,6 +8,7 @@ https://t.me/lawxszdev
 
 #### This repository is for educational purposes only, we only provide Python Scripts so that you can use them in the purposes you need.
 # Features - Scripts 🏖️
+- 🎆 App-Bound Disabler Chrome 127
 - 🎆 Telegram Session Hijacking
 - 🎆 Discord Tokens Retrieval
 - 🎆 Cryptocurrency Wallet Stealer (Metamask, Exodus, Extension)

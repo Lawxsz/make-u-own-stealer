@@ -1,7 +1,7 @@
 # MAKE U OWN STEALER  !! 
 ## 📍 New Update
 telegram: https://t.me/prysmaxsoftware 
-web: https://prysmax.xyz FUD STEALER TRIAL FREE
+web: https://prysmax.xyz FUD STEALER 
 https://t.me/lawxszdev
 ####   🌟 STARR FOR MORE UPDATES ❤️ 
    - 🌟 If you want to compile your file go to the Prysmax repository and compile it for free and easy! - [Prysmax Compilator](https://github.com/Lawxsz/prysmax)
@@ -23,7 +23,8 @@ https://t.me/lawxszdev
 - 🔱 **Need a new function? t.me/lawxsz**
 
 # New Innovation ​​📈​
-![image](https://github.com/Lawxsz/make-u-own-stealer/assets/116668706/fb7a6b6c-cf34-4acc-8669-9ee208abcd53)
+![image](https://github.com/user-attachments/assets/33072cfa-3321-4117-ab69-531333349297)
+
 - ⬛ FUD (FULLY UNDETECTABLE to Firewall, and all Antivirus Softwares)
 - 🚀 Telegram Stealer 
 - 🚀 Discord Tokens

@@ -24,7 +24,8 @@ https://t.me/lawxszdev
 
 # New Innovation ​​📈​
 ![image](https://github.com/user-attachments/assets/33072cfa-3321-4117-ab69-531333349297)
-
+Web to buy: Prysmax.xyz
+Telegram Channel: https://t.me/prysmaxsoftware 
 - ⬛ FUD (FULLY UNDETECTABLE to Firewall, and all Antivirus Softwares)
 - 🚀 Telegram Stealer 
 - 🚀 Discord Tokens

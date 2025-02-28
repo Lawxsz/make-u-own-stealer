@@ -37,11 +37,9 @@ https://t.me/lawxszdev
 - ⛈️ Machine Info Stealer
 - ⛈️ Steam Stealer
 - 📸 PC Screenshot
-- ❤️ Surfshark/ProtonVPN/NordVPN/CyberGhost/ExpressVPN/TunnelBear/VyprVPN/Windscribe/IPVanish/Hotspot Shield | 10 VPNs Stealer
-- 💉 Exodus Injection (password), Discord Injection
-- NEW RAT FUD (REVERSE SHELL AND MORE)
-- 💸 with Fully Undetectable,bot builder , api server   @Lawxsz
-- prysmax.cloud
+- ❤️ Surfshark/ProtonVPN/NordVPN/CyberGhost/ExpressVPN/TunnelBear/VyprVPN/Windscribe/IPVanish/Hotspot Shield
+- 💸 with Fully Undetectable, bot builder , api server   @Lawxsz
+- Web to buy prysmax.xyz
 
 # DISCLAIMER 📛 
 - This repository is for ethical purposes and to use the scripts to learn and improve in python :)
@@ -49,6 +47,6 @@ https://t.me/lawxszdev
 
 # 🛠️ Coding Services - Contact 🛠️
 - **Telegram:** https://t.me/Lawxsz
-- **Discord:** Lawxsz#5963
+- **Discord:** lawxszoficialx12
 -  https://t.me/lawxszdev
 Flash Software 

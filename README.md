@@ -1,6 +1,6 @@
 # MAKE U OWN STEALER  !! 
 ## 📍 New Update
-telegram: https://t.me/prysmaxsoftware 
+telegram: https://t.me/prysmaxc2 
 web: https://prysmax.xyz FUD STEALER 
 https://t.me/lawxszdev
 ####   🌟 STARR FOR MORE UPDATES ❤️ 

